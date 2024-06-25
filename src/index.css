@@ -22,3 +22,16 @@ h1 {
 	font-size: 3.2em;
 	line-height: 1.1;
 }
+
+button {
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: 500;
+	padding: 0.5em 1em;
+	border: 0;
+	border-radius: 0.25em;
+	background-color: #646cff;
+	color: white;
+	cursor: pointer;
+	margin: 0.5em;
+}
